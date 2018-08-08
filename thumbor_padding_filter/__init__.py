@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import logging
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 try:
     from thumbor_padding_filter.padding import Filter  # NOQA

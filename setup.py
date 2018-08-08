@@ -40,11 +40,5 @@ Padding filter for thumbor.
         'Programming Language :: Python :: 2.7',
     ],
     packages=find_packages(),
-    include_package_data=True,
-    install_requires=[
-        'pillow',
-    ],
-    extras_require={
-        'tests': tests_require,
-    }
+    include_package_data=True
 )

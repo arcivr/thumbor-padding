@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import logging
-# import math
 
 from thumbor.filters import BaseFilter, filter_method
 
