@@ -26,7 +26,7 @@ Padding filter for thumbor.
     keywords='thumbor filter',
     author='Derek Lucas',
     author_email='derek.lucas@arcivr.com',
-    url='',
+    url='https://github.com/arcivr/thumbor-padding',
     license='MIT',
     classifiers=[
         'Development Status :: 4 - Beta',
