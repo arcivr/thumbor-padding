@@ -21,7 +21,7 @@ Add `padding()` to thumbor url at `filters` section, method signature is like th
 
 `padding(<left>, <top>, <right>, <bottom> [, <color>])`
 
-You can omit `color`, it will use be transparent as default.
+You can omit `color`, it will use white as the default.
 For `color`, use a valid hex code __without the #__.
 
 Here are some examples:
