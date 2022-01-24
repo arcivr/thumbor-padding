@@ -1,3 +1,7 @@
+__*** Unmaintained ***__
+
+We're no longer using Thumbor for our image stack, and so this is unmaintained. Use at your own risk.
+
 Thumbor Padding
 ===
 
